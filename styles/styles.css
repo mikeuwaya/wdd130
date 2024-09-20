@@ -32,6 +32,7 @@ aside img {
 	height: auto;
 }
 main img {
+	width: 300px;
 	height: auto;
 }
 p {
