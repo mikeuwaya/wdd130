@@ -19,6 +19,16 @@ img{
 p{
 	padding: 10px;
 }
+p {
+	padding: 0;	
+}
+main {
+	max-width: 840px;
+}
+main img {
+	width: 150px;
+	height: auto;
+}
 aside {
 	width: 20rem;
 	margin: 1rem;
@@ -30,16 +40,6 @@ aside {
 aside img {
 	width: 200px;
 	height: auto;
-}
-main {
-	max-width: 840px;
-}
-main img {
-	width: 150px;
-	height: auto;
-}
-p {
-	padding: 0;	
 }
 footer {
 	margin-top: 15px;	
