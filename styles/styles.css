@@ -10,7 +10,7 @@ h1{
 	color: steelblue;
 }
 img{
-	max-width: 150px;
+	width: 150px;
 	height:auto;
 	border:steelblue solid 1px;
 	padding: 2px;
@@ -20,7 +20,7 @@ p{
 	padding: 10px;
 }
 aside {
-	max-width: 20rem;
+	width: 20rem;
 	margin: 1rem;
 	border: 1px; 
 	padding: 1px;
@@ -28,11 +28,11 @@ aside {
 	color: #333333;
 	 text-align: center;}
 aside img {
-	max-width: 200px;
+	width: 200px;
 	height: auto;
 }
 main img {
-	max-width: 50%;
+	width: 100px;
 	height: auto;
 }
 p {
