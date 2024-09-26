@@ -39,6 +39,7 @@ main img {
 	height: auto;
 }
 aside {
+	position: absolute;
 	width: 20rem;
 	margin: 1rem;
 	border: 1px; 
