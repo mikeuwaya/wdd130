@@ -1,0 +1,82 @@
+.hero img{
+	display: block;
+	width: 100%;
+	height: auto;
+	position: relative;
+}
+div.wrap {
+    width:1000px;
+    margin:5px auto;
+}
+nav{
+	background-color: #6C757D;
+	padding: 10px;
+	width: 940px;
+	margin:5px -8px;
+}
+nav a{
+	color: #DEE2E6;
+	padding: 20px;
+}
+nav.sociallinks{
+	padding: 5px;
+	margin: -15px 98px;
+}
+nav.sociallinks a{
+	padding: -80px;
+	margin: 15px 28px;
+}
+h1{
+	color: #DEE2E6;
+	position: absolute;
+}
+article{
+	background-color: #DEE2E6;
+	position: absolute;
+	margin:150px 390px 90px;
+	height: 80px;
+	width: 350px;
+}
+section img{
+	background-color: #DEE2E6;
+	position: static;
+	margin:10px 753px;
+}
+article img{
+	background-color: #DEE2E6;
+	position: absolute;
+	margin:-90px 353px;
+}
+h2{
+	color: #6C757D;
+	margin:5px 13px;	
+}
+a {
+	text-decoration: none;
+  }
+img{
+	width: 150px;
+	height:auto;
+	border:#6C757D solid 3px;
+	padding: 2px;
+	box-shadow: 0 0 10px #6C757D;
+}
+p{
+	padding: 10px;
+}
+p {
+	padding: 0;	
+}
+main {
+	max-width: 950px;
+}
+main img {
+	float: right;	
+	width: 150px;
+	height: auto;
+}
+footer {
+	margin-top: 15px;	
+	border-top: 1px;
+	text-align: center;	
+}
