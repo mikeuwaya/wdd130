@@ -1,7 +1,12 @@
 /* Link to colour site */
-color: url('https://coolors.co/palette/f8f9fa-e9ecef-dee2e6-ced4da-adb5bd-6c757d-495057-343a40-212529');
-font: url('href="https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue');
-font: url('href="https://fonts.google.com/specimen/Fira+Sans?query=fira+sans');
+@font-face {
+  font-family: "CustomFont";
+  src: url("https://colors.co/palette/f8f9fa-e9ecef-dee2e6-ced4da-adb5bd-6c757d-495057-343a40-212529");
+  font: url("href="https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue");
+  font: url("href="https://fonts.google.com/specimen/Fira+Sans?query=fira+sans");	
+}
+color: url();
+
 
 .hero img{
 	display: block;
