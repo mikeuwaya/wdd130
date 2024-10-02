@@ -4,6 +4,10 @@
   font-family: "Bebas Neue";
   src: url('https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue') format("woff2");
 }
+@font-face {
+  font-family: "fira sans";
+  src: url('https://fonts.google.com/specimen/Fira+Sans?query=fira+sans') format("woff2");
+}
 
 
 
