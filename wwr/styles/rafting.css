@@ -15,7 +15,12 @@ body {
 }
   
   
-  
+header img{
+	margin-block-start: 24px;
+	margin-block-end: 2px;
+	margin-inline-start: 170px;
+	margin-inline-end: 0px;
+} 
 header img{
 	width: 120px;
 	height: 120px;
