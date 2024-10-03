@@ -12,57 +12,78 @@
 body {
 	background-color: #f8f9fa;
 }
-
-
-
-.hero img{
-	display: block;
-	width: 1000px;
-	height: 100px;
-	position: relative;
-}
-div.wrap {
-    width:1000px;
-    margin:5px auto;
+  
+header img{
+	width: 150px;
+	height:auto;
+	border:#6C757D solid 3px;
+	padding: 2px;
+	box-shadow: 0 0 10px #6C757D;
+	margin-block-start: 4px;
+	margin-block-end: 2px;
+	margin-inline-start: 170px;
+	margin-inline-end: 0px;
 }
 nav{
 	background-color: #6C757D;
 	padding: 10px;
-	width: 940px;
-	margin:5px -8px;
+	width: 910px;
+	height: auto;
+	margin-block-start: 5px;
+	margin-block-end: 7px;
+	margin-inline-start: 170px;
+	margin-inline-end: 0px;
 }
 nav a{
 	color: #DEE2E6;
-	padding: 20px;
+	padding: 30px;
 }
-nav.sociallinks{
-	padding: 5px;
-	margin: 10px 98px;
+.hero img{
+	  display: block;
+	  width: 920px;
+	  height: auto;
+	  position: relative;
+	  margin-block-start: 3px;
+	  margin-block-end: 7px;
+	  margin-inline-start: 70px;
+	  margin-inline-end: -150px;
 }
-nav.sociallinks a{
-	padding: 10px;
-	margin: 15px 28px;
+main {
+	max-width: 950px;
 }
 h1{
-	color: #DEE2E6;
-	position: absolute;
+	  color: #DEE2E6;
+	  position: absolute;
+	  display: block;
+	  margin-block-start: 15px;
+	  margin-block-end: 5px;
+	  margin-inline-start: 220px;
+	  margin-inline-end: 0px;
 }
 article{
 	background-color: #DEE2E6;
 	position: absolute;
-	margin:150px 390px 90px;
-	height: 80px;
-	width: 350px;
+	height: 90px;
+	width: 950px;
+	margin-block-start: 100px;
+	margin-block-end: 9px;
+	margin-inline-start: 520px;
+	margin-inline-end: 0px;
+}
+article img{
+	background-color: #DEE2E6;
+	position: absolute;
+	width: 160px;
+	height: auto;
+	margin-block-start: 15px;
+	margin-block-end: 5px;
+	margin-inline-start: 20px;
+	margin-inline-end: 0px;
 }
 section img{
 	background-color: #DEE2E6;
 	position: static;
 	margin:10px 753px;
-}
-article img{
-	background-color: #DEE2E6;
-	position: absolute;
-	margin:-90px 353px;
 }
 h2{
 	color: #6C757D;
@@ -71,13 +92,6 @@ h2{
 a {
 	text-decoration: none;
   }
-img{
-	width: 150px;
-	height:auto;
-	border:#6C757D solid 3px;
-	padding: 2px;
-	box-shadow: 0 0 10px #6C757D;
-}
 p{
 	padding: 10px;
 }
@@ -97,3 +111,5 @@ footer {
 	border-top: 1px;
 	text-align: center;	
 }
+
+
