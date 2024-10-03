@@ -1,17 +1,18 @@
 /* Link to colour site */
 
 @font-face {
-  font-family: "Bebas Neue";
-  src: url('https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue') format("woff2");
+	font-family: "Bebas Neue";
+	src: url("https://fonts.google.com/specimen/Bebas+Neue?query=Bebas+Neue") format("woff2");
 }
-@font-face {
-  font-family: "fira sans";
-  src: url('https://fonts.google.com/specimen/Fira+Sans?query=fira+sans') format("woff2");
+  @font-face {
+	font-family: "fira sans";
+	src: url("https://fonts.google.com/specimen/Fira+Sans?query=fira+sans") format("woff2");
 }
-
 body {
-	background-color: #f8f9fa;
+	  background-color: #f8f9fa;
 }
+  
+  
   
 header img{
 	width: 150px;
@@ -19,7 +20,7 @@ header img{
 	border:#6C757D solid 3px;
 	padding: 2px;
 	box-shadow: 0 0 10px #6C757D;
-	margin-block-start: 994px;
+	margin-block-start: 4px;
 	margin-block-end: 2px;
 	margin-inline-start: 170px;
 	margin-inline-end: 0px;
@@ -40,16 +41,21 @@ nav a{
 }
 .hero img{
 	  display: block;
-	  width: 920px;
+	  width: 930px;
 	  height: auto;
 	  position: relative;
 	  margin-block-start: 3px;
 	  margin-block-end: 7px;
-	  margin-inline-start: 70px;
+	  margin-inline-start: 290px;
 	  margin-inline-end: -150px;
 }
 main {
 	max-width: 950px;
+}
+main img {
+	float: right;	
+	width: 150px;
+	height: auto;
 }
 h1{
 	  color: #DEE2E6;
@@ -80,36 +86,55 @@ article img{
 	margin-inline-start: 20px;
 	margin-inline-end: 0px;
 }
-section img{
-	background-color: #DEE2E6;
-	position: static;
-	margin:10px 753px;
-}
 h2{
 	color: #6C757D;
-	margin:5px 13px;	
+	margin-block-start: 15px;
+	margin-block-end: 5px;
+	margin-inline-start: 170px;
+	margin-inline-end: 30px;
 }
 a {
 	text-decoration: none;
   }
-p{
+section p{
 	padding: 10px;
+	margin-block-start: 1px;
+	margin-block-end: 1px;
+	margin-inline-start: 160px;
+	margin-inline-end: 30px;
+
 }
-p {
-	padding: 0;	
-}
-main {
-	max-width: 950px;
-}
-main img {
-	float: right;	
-	width: 150px;
+section img{
+	background-color: #DEE2E6;
+	position: static;
+	margin-block-start: 15px;
+	margin-block-end: 10px;
+	margin-inline-start: 30px;
+	margin-inline-end: 570px;
+	width: 210px;
 	height: auto;
 }
+
 footer {
-	margin-top: 15px;	
+	margin-block-start: 15px;
+	margin-block-end: 5px;
+	margin-inline-start: 10px;
+	margin-inline-end: 190px;
 	border-top: 1px;
+}
+footer p{
+	margin-block-start: 810px;
+	margin-block-end: 5px;
+	margin-inline-start: 90px;
+	margin-inline-end: 0px;
 	text-align: center;	
 }
-
-
+footer img{
+	margin-block-start: 5px;
+	margin-block-end: 3px;
+	margin-inline-start: 110px;
+	margin-inline-end: 1px;
+	text-align: center;
+	width: 30px;
+	height: auto;
+}
