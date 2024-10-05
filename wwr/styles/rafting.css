@@ -40,9 +40,16 @@ main {
 	max-width: 950px;
 }
 h1 {
-	color: #DEE2E6;
-	position: absolute;
-	display: block;
+    color: #DEE2E6;
+    position: absolute;
+    display: block;
+    font-size: 2em;
+    margin-block-start: 10px;
+    margin-block-end: 10px;
+    margin-inline-start: 1000px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    unicode-bidi: isolate;
 }
 article {
 	background-color: #DEE2E6;
