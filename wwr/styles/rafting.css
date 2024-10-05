@@ -13,12 +13,6 @@ body {
 	margin-block-start: 24px;
 	margin-block-end: 2px;
 }
-header {
-	margin-block-start: 10px;
-	margin-block-end: 2px;
-	margin-inline-start: 100px;
-	margin-inline-end: 0px;
-} 
 header img {
 	width: 200px;
 	height: 120px;
@@ -41,15 +35,11 @@ nav a {
 	  width: 930px;
 	  height: auto;
 	  position: relative;
-	  margin-block-start: 3px;
-	  margin-block-end: 7px;
-	  margin-inline-start: 190px;
-	  margin-inline-end: 100px;
 }
 main {
 	max-width: 950px;
 }
-.hero div img {
+article img {
 	float: right;	
 	width: 150px;
 	height: auto;
