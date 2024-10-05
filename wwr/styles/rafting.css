@@ -57,7 +57,7 @@ article {
 	height: 90px;
 	width: 950px;
 }
-article img {
+.hero article img {
 	background-color: #DEE2E6;
 	position: absolute;
 	width: 160px;
