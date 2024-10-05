@@ -16,9 +16,9 @@ body {
   
   
 header {
-	margin-block-start: 20px;
+	margin-block-start: 10px;
 	margin-block-end: 2px;
-	margin-inline-start: 120px;
+	margin-inline-start: 100px;
 	margin-inline-end: 0px;
 } 
 header img {
@@ -27,9 +27,9 @@ header img {
 	border:#6C757D solid 3px;
 	padding: 2px;
 	box-shadow: 0 0 10px #6C757D;
-	margin-block-start: 20px;
+	margin-block-start: 10px;
 	margin-block-end: 2px;
-	margin-inline-start: 120px;
+	margin-inline-start: 100px;
 	margin-inline-end: 0px;
 }
 nav {
@@ -39,7 +39,7 @@ nav {
 	height: auto;
 	margin-block-start: 5px;
 	margin-block-end: 7px;
-	margin-inline-start: 170px;
+	margin-inline-start: 100px;
 	margin-inline-end: 0px;
 }
 nav a {
@@ -53,8 +53,8 @@ nav a {
 	  position: relative;
 	  margin-block-start: 3px;
 	  margin-block-end: 7px;
-	  margin-inline-start: 290px;
-	  margin-inline-end: -150px;
+	  margin-inline-start: 190px;
+	  margin-inline-end: 100px;
 }
 main {
 	max-width: 950px;
