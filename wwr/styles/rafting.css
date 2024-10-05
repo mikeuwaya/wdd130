@@ -39,87 +39,45 @@ nav a {
 main {
 	max-width: 950px;
 }
-article img {
-	float: right;	
-	width: 150px;
-	height: auto;
-}
 h1 {
 	color: #DEE2E6;
 	position: absolute;
 	display: block;
-	margin-block-start: 15px;
-	margin-block-end: 5px;
-	margin-inline-start: 220px;
-	margin-inline-end: 0px;
 }
 article {
 	background-color: #DEE2E6;
 	position: absolute;
 	height: 90px;
 	width: 950px;
-	margin-block-start: 100px;
-	margin-block-end: 9px;
-	margin-inline-start: 520px;
-	margin-inline-end: 0px;
 }
 article img {
 	background-color: #DEE2E6;
 	position: absolute;
 	width: 160px;
 	height: auto;
-	margin-block-start: 15px;
-	margin-block-end: 5px;
-	margin-inline-start: 20px;
-	margin-inline-end: 0px;
 }
 h2 {
 	color: #6C757D;
-	margin-block-start: 615px;
-	margin-block-end: 5px;
-	margin-inline-start: 170px;
-	margin-inline-end: 30px;
 }
 a {
 	text-decoration: none;
 }
 section p {
 	padding: 10px;
-	margin-block-start: 1px;
-	margin-block-end: 1px;
-	margin-inline-start: 160px;
-	margin-inline-end: 30px;
-
 }
 section img {
 	background-color: #DEE2E6;
 	position: static;
-	margin-block-start: 15px;
-	margin-block-end: 10px;
-	margin-inline-start: 30px;
-	margin-inline-end: 570px;
 	width: 210px;
 	height: auto;
 }
 footer {
-	margin-block-start: 15px;
-	margin-block-end: 5px;
-	margin-inline-start: 10px;
-	margin-inline-end: 190px;
 	border-top: 1px;
 }
 footer p {
-	margin-block-start: 810px;
-	margin-block-end: 5px;
-	margin-inline-start: 90px;
-	margin-inline-end: 0px;
 	text-align: center;	
 }
 footer img {
-	margin-block-start: 5px;
-	margin-block-end: 3px;
-	margin-inline-start: 110px;
-	margin-inline-end: 1px;
 	text-align: center;
 	width: 30px;
 	height: auto;
