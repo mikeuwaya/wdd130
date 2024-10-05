@@ -46,7 +46,7 @@ nav a {
 	color: #DEE2E6;
 	padding: 30px;
 }
-.hero div img {
+.hero img {
 	  display: block;
 	  width: 930px;
 	  height: auto;
@@ -59,7 +59,7 @@ nav a {
 main {
 	max-width: 950px;
 }
-.hero img {
+.hero div img {
 	float: right;	
 	width: 150px;
 	height: auto;
