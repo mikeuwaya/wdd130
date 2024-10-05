@@ -18,7 +18,7 @@ body {
 header {
 	margin-block-start: 20px;
 	margin-block-end: 2px;
-	margin-inline-start: 220px;
+	margin-inline-start: 120px;
 	margin-inline-end: 0px;
 } 
 header img {
@@ -29,7 +29,7 @@ header img {
 	box-shadow: 0 0 10px #6C757D;
 	margin-block-start: 20px;
 	margin-block-end: 2px;
-	margin-inline-start: 220px;
+	margin-inline-start: 120px;
 	margin-inline-end: 0px;
 }
 nav {
