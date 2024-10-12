@@ -65,14 +65,19 @@
                                                 <fieldset>
                                                     <legend>Questions</legend>
                                                         <label for="browser">What is the purpose of your message?</label>
-                                                    <select id="browser" name="browser">
-                                                        <option value="Select from the options">Select from the options</option>
-                                                        <option value="General Inquiry">General Inquiry</option>
-                                                        <option value="Reservation Question">Reservation Question</option>
-                                                        <option value="Website Suggestion">Website Suggestion</option>
-                                                        <option value="Others">Others</option>
-                                                    </select>
-                                                    <label for="feedback">Your Message goes here:</label>
+                                                            <div>
+                                                              <input type="radio" id="huey" name="drone" value="huey" checked />
+                                                              <label for="huey">General Inquiry</label>
+                                                            </div>
+                                                            <div>
+                                                              <input type="radio" id="dewey" name="drone" value="dewey" />
+                                                              <label for="dewey">Reservation Question</label>
+                                                            </div>
+                                                            <div>
+                                                              <input type="radio" id="louie" name="drone" value="louie" />
+                                                              <label for="louie">Website Suggestion</label>
+                                                            </div>
+                                                          <label for="feedback">Your Message goes here:</label>
                                                     <textarea id="feedback" name="feedback" rows="4" placeholder="Stillwater Florida, Amsterdam Netherlands, Tibuktu Mali"></textarea>
                                                     <label for="pet">Please subscribe me to the monthly newsletter</label>
                                                     <input type="checkbox" id="pet" name="pet">
@@ -80,8 +85,7 @@
                                                         <div class="button">
                                                             <button type="submit">Send your message</button>
                                                         </div>
-                                            </form>
-                </div>
+                                            </form>                </div>
             </div>
         </main>
             <footer>            
