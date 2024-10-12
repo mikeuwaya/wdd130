@@ -300,7 +300,7 @@ h4{
 .flexbox-container-6{
 	width: 1200px;
 	display: flex;
-	margin-block-start: 0px;
+	margin-block-start: 20px;
 	margin-inline-start: 102px;
 	align-content: center;
 	flex-direction: row;
@@ -337,32 +337,32 @@ h4{
 }
 .flexbox-item-70{
 	margin: 5px;
-	
 }
 .flexbox-item-2a {
-	height: 40px;
+	height: 100px;
 	width: 200px;
 	margin-block-start: 1px;
 	margin-inline-start: 102px;
 }
 .flexbox-item-2b {
-	height: 40px;
+	height: 100px;
 	width: 200px;
 	margin-block-start: 1px;
 	margin-inline-start: 102px;
 }
 .flexbox-item-2c {
-	height: 40px;
+	height: 100px;
 	width: 200px;
 	margin-block-start: 1px;
 	margin-inline-start: 102px;
 }
 .flexbox-container-8{
-	width: 800px;
+	width: 1100px;
+	height: 650px;
 	display: flex;
-	margin-block-start: 40px;
+	margin-block-start: 0px;
 	margin-block-end: 10px;
-	margin-inline-start: 102px;
+	margin-inline-start: 40px;
 	align-content: center;
 	flex-direction: column;
 }
@@ -373,19 +373,25 @@ h4{
 .flexbox-item-3a {
 	height: 40px;
 	width: 200px;
-	margin-block-start: 40px;
+	margin-block-start: 10px;
 	margin-block-end: 10px;
 	margin-inline-start: 382px;
 }
 .flexbox-item-3b {
-	height: 270px;
-	width: 400px;
+	height: 570px;
+	width: 800px;
 	margin-block-start: 11px;
-	margin-inline-start: 260px;
+	margin-inline-start: 200px;
 }
-iframe{
-	width: 600px;
-	height: 350px;
+.maps{
+	width: 700px;
+	height: 550px; 
+	border: 0px;
+}
+.maps iframe {
+	width: 700px;
+	height: 550px; 
+	border: 0px;
 }
 .flexbox-container-9{
 	width: 1100px;
