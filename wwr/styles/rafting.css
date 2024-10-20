@@ -7,8 +7,7 @@
 	font-family: "Fira Sans", sans-serif;
 	font-weight: 100;
 	font-style: normal;
-  }
-  
+  }  
   .fira-sans-extralight {
 	font-family: "Fira Sans", sans-serif;
 	font-weight: 200;
@@ -111,9 +110,6 @@
 	font-style: italic;
   }
   
-
-
-
 
 
 body {width: 1300px;}
@@ -377,10 +373,6 @@ section img{
 	border: 5px solid rgba(0, 0, 0, 0.5);
 	padding: 5px;
 }
-.flexbox-item-1d{
-	margin: 15px;
-	text-align: center;
-}
 .flexbox-item-11d{
 	min-height: auto;
 	width: 400px;
@@ -423,10 +415,6 @@ section img{
 	height: 370px;
 	margin: 20px;
 	padding: 5px;
-}
-.flexbox-item-1de{
-	margin: 15px;
-	text-align: center;
 }
 .flexbox-item-11de{
 	min-height: auto;
@@ -829,12 +817,10 @@ button:hover {
 
 
 
-a {
-	text-decoration: none;
-  }
 p{
 	padding: 10px;
 }
-p {
-	padding: 0;	
-}
+:root {
+	--main-color: #f8f9fa;
+	--pane-padding: 5px 42px;
+  }
