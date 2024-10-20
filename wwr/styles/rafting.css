@@ -8,11 +8,12 @@
 	font-family: "fira sans";
 	src: url("https://fonts.google.com/specimen/Fira+Sans?query=fira+sans") format("woff2");
 }
+h1.a {font-family: "Bebas Neue";}
+h1.b {font-family: "fira sans";}
 
-body {
 
-	width: 1300px;
-}
+body {width: 1300px;}
+
 .big img{
 	width: 1440px;
 	height: 650px;
